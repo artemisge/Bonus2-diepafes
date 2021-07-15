@@ -103,9 +103,9 @@ html {
     }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 400px) {
     .top-container {
-        padding-top: 5em;
+        margin-top: 18em;
     }
 }
 
